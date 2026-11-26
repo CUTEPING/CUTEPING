@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="file:///C:/Users/polin/Downloads/Telegram%20Desktop/photo_2026-11-26_20-52-04.jpg" width="800" alt="Баннер" />
-</p>
+<img width="2560" height="458" alt="photo_2026-11-26_20-52-04" src="https://github.com/user-attachments/assets/fddaca92-b5f9-432d-90aa-a4a0ded79be2" />
