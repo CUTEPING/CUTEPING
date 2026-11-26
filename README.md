@@ -1,8 +1,9 @@
 <img width="2560" height="458" alt="photo_2026-11-26_20-52-04" src="https://github.com/user-attachments/assets/fddaca92-b5f9-432d-90aa-a4a0ded79be2" />
 <picture>
-<p align="left">
-  <img <img width="300" alt="photo_2026-11-26_21-18-39" src="https://github.com/user-attachments/assets/561eec90-a1ae-4506-bbb8-7be4ce539a1e" /> 
+<p aling="left">
+  <img <img width="350" alt="photo_2026-11-26_21-28-29" src="https://github.com/user-attachments/assets/561eec90-a1ae-4506-bbb8-7be4ce539a1e" />
 </p>
+
 <!-- 2. Текст по центру (сверху) -->
 <div align="center" style="margin-top: 50px;">
   <span style="color: #5BC0EB; font-size: 16px; font-family: monospace; font-weight: bold;">
@@ -17,7 +18,7 @@
 
 <!-- 3. Чиби по центру -->
 <div align="center">
-  <img width="150" alt="Без названия35_20261126211702" src="https://github.com/user-attachments/assets/1bb49ebf-f332-44a1-a767-cd662e6815c9" />
+  <img src=<width="3072" height="3072" alt="Без названия35_20261126211702" src="https://github.com/user-attachments/assets/2845bb31-87e1-482c-99fa-31dde05308ab" /> 
 </div>
 
 <br>
