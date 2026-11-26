@@ -3,9 +3,6 @@
 <p align="left">
   <img <img width="300" alt="photo_2026-11-26_21-18-39" src="https://github.com/user-attachments/assets/561eec90-a1ae-4506-bbb8-7be4ce539a1e" /> 
 </p>
-<!-- 1. Левая большая картинка (Персонаж) -->
-<!-- align="left" заставляет текст обтекать её справа -->
-
 <!-- 2. Текст по центру (сверху) -->
 <div align="center" style="margin-top: 50px;">
   <span style="color: #5BC0EB; font-size: 16px; font-family: monospace; font-weight: bold;">
