@@ -5,7 +5,7 @@
 </p>
 <!-- 1. Левая большая картинка (Персонаж) -->
 <!-- align="left" заставляет текст обтекать её справа -->
-<img src=<img align="left" width="148" alt="photo_2026-11-26_21-18-03" src="https://github.com/user-attachments/assets/5f10dc66-1d7a-448e-a402-7e5d62dc6aef" />
+<img align="left" width="100" alt="Без названия35_20261126211702" src="https://github.com/user-attachments/assets/73dadc6c-52cd-4102-84be-538a9ccb5bb9" />
 
 <!-- 2. Текст по центру (сверху) -->
 <div align="center" style="margin-top: 50px;">
