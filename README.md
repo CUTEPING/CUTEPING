@@ -5,7 +5,7 @@
 </p>
 
 <!-- 2. Текст по центру (сверху) -->
-<div align="center" style="margin-top: 50px;">
+<div style="margin-top: 20px;">
   <span style="color: #5BC0EB; font-size: 16px; font-family: monospace; font-weight: bold;">
     [Call me ВАШ_НИК !! 13 y.o; ANY prns.<br>
     Often OFFTAB if im sitting without friends.<br>
@@ -21,6 +21,7 @@
   <img src="https://github.com/user-attachments/assets/dafe70a6-33e2-46cb-9e00-fdc169d8cb3f" width="150" alt="Без названия35_20261126211702" />
 </div>
 
+<br clear="left" />
 <br>
 
 <!-- 4. Текст внизу по центру -->
