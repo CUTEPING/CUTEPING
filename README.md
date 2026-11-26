@@ -18,7 +18,7 @@
 
 <!-- 3. Чиби по центру -->
 <div align="center">
-  <img src=<width="3072" height="3072" alt="Без названия35_20261126211702" src="https://github.com/user-attachments/assets/2845bb31-87e1-482c-99fa-31dde05308ab" /> 
+  <img src="https://github.com/user-attachments/assets/dafe70a6-33e2-46cb-9e00-fdc169d8cb3f" width="150" alt="Без названия35_20261126211702" />
 </div>
 
 <br>
