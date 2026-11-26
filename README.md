@@ -17,7 +17,7 @@
 <br><br> <!-- Отступы, чтобы текст не наезжал на нижние элементы -->
 
 <!-- 3. Чиби по центру -->
-<div align="ringht">
+<div align="right">
   <img src="https://github.com/user-attachments/assets/dafe70a6-33e2-46cb-9e00-fdc169d8cb3f" width="150" alt="Без названия35_20261126211702" />
 </div>
 
