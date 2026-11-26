@@ -3,8 +3,5 @@
 <p align="left">
   <img <img width="400" alt="photo_2026-11-26_21-18-39" src="https://github.com/user-attachments/assets/561eec90-a1ae-4506-bbb8-7be4ce539a1e" /> 
 </p>
-<img src=<img <img width="200" height="3072" alt="Без названия35_20261126211702" src="https://github.com/user-attachments/assets/ded01689-0587-4a0c-b988-4330963e29aa" />
- />
-
 Тут ваш текст, который будет красиво обтекать чиби справа...
 <br clear="ringht" />
