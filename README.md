@@ -1,11 +1,11 @@
 <img width="2560" height="458" alt="photo_2026-11-26_20-52-04" src="https://github.com/user-attachments/assets/fddaca92-b5f9-432d-90aa-a4a0ded79be2" />
 <picture>
 <p align="left">
-  <img <img width="400" alt="photo_2026-11-26_21-18-39" src="https://github.com/user-attachments/assets/561eec90-a1ae-4506-bbb8-7be4ce539a1e" /> 
+  <img <img width="300" alt="photo_2026-11-26_21-18-39" src="https://github.com/user-attachments/assets/561eec90-a1ae-4506-bbb8-7be4ce539a1e" /> 
 </p>
 <!-- 1. Левая большая картинка (Персонаж) -->
 <!-- align="left" заставляет текст обтекать её справа -->
-<img src=<img width="350" aling="right" alt="Без названия35_20261126211702" src="https://github.com/user-attachments/assets/f72b233b-fb7e-4c63-96e3-dffb7dace443" /> />
+<img src=<img width="2560" height="2560" alt="photo_2026-11-26_21-18-03" src="https://github.com/user-attachments/assets/5f10dc66-1d7a-448e-a402-7e5d62dc6aef" />
 
 <!-- 2. Текст по центру (сверху) -->
 <div align="center" style="margin-top: 50px;">
