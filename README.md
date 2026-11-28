@@ -10,10 +10,10 @@
   
 <!-- 2. Текст по центру (сверху) -->
 <p style="color: #5BC0EB; font-size: 16px; font-family: monospace; font-weight: bold;">
-    [Call me ВАШ_НИК !! 13 y.o; ANY prns.<br>
-    Often OFFTAB if im sitting without friends.<br>
-    if I'm hanging out with friends and sleeping, I'm off...<br>
-    I'm friendly, so don't be afraid !! owo] 
+    [Call me PING .! i'm part of the Roblox Zone News admin team as an interactor on the zone itself.<br>
+    I'm often AFK or chilling with my favorite friends/squad.<br>
+    i'm open to making new friends,<br>
+    but only if you catch my interest, sorry ~
 </p>
 
 <br> <!-- Отступы, чтобы текст не наезжал на нижние элементы -->
@@ -28,8 +28,7 @@
 <p>
 <div align="center">
   <font style="color: #7ED957; font-size: 14px; font-family: monospace;">
-    ⚠️ DNI darkshippers, former friends, homophobes,<br>
-    pedophiles ahh
+    📸 DNI base, former friends, freaks
   </font>
 </p>
 
