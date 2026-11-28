@@ -28,7 +28,8 @@
 <p>
 <div align="center">
   <font style="color: #7ED957; font-size: 14px; font-family: monospace;">
-    📸 DNI base, former friends, freaks
+    📸 DNI base, former friends, freaks.<br>
+     w2i DNC
   </font>
 </p>
 
